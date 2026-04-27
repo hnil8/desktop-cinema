@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CinemaManagement.BLL/CinemaManagement.BLL.csproj" Id="9f0c6d6b-7e22-4591-aa56-9513e8b2872d" />
+  <Project Path="CinemaManagement.DAL/CinemaManagement.DAL.csproj" Id="0bf1a86f-7169-43ab-b797-02610f984010" />
+  <Project Path="CinemaManagement.GUI/CinemaManagement.GUI.csproj" Id="e9141ab5-9a8d-4f79-8964-6d750aea2a84" />
+</Solution>
